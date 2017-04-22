@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.javabegin.training.adnroid.todoproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="ru.javabegin.training.android.todoproject.objects.AppContext"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="Zametki"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="ru.javabegin.training.android.todoproject.activities.Welcome"
+            android:label="Zametki"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ru.javabegin.training.android.todoproject.activities.TodoList"
+            android:label="Zametki"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="ru.javabegin.training.android.todoproject.activities.TodoDetails"
+            android:label="Zametki"
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+    </application>
+
+</manifest>

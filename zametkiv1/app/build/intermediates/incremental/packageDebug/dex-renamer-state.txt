@@ -1,0 +1,7 @@
+#Sat Apr 22 09:19:42 MSK 2017
+base.0=C\:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_790ed834cbf2afba26caa04faf631ee7bb814526
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_34267f063894b32e526155bb2585fb66d6a61238\\classes.dex
+base.1=C\:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_34267f063894b32e526155bb2585fb66d6a61238
+file.0=C\:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_790ed834cbf2afba26caa04faf631ee7bb814526\\classes.dex

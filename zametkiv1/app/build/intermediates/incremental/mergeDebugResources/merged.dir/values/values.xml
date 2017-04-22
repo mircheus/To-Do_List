@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#C8C8C8</color>
+    <color name="light_gray">#0d0d0d</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">Todo</string>
+    <string name="back">Назад</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirm_delete">Вы действительно хотите удалить заметку?</string>
+    <string name="create">Создать</string>
+    <string name="delete">Удалить</string>
+    <string name="empty_list">(нет заметок)</string>
+    <string name="high">Высокий</string>
+    <string name="low">Низкий</string>
+    <string name="middle">Средний</string>
+    <string name="new_document">Новая заметка</string>
+    <string name="priority">Приоритет</string>
+    <string name="save">Сохранить</string>
+    <string name="search_title">Поиск</string>
+    <string name="sort">Сортировать</string>
+    <string name="sort_date">По дате</string>
+    <string name="sort_name">По названию</string>
+    <string name="sort_priority">По приоритету</string>
+    <string name="title_activity_todo_details">TodoDetails</string>
+    <string name="title_activity_todo_list">Todo</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

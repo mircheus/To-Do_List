@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_sort.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_sort_disabled.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_sort_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_priority_middle.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_priority_middle.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_priority.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_priority.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_priority_high.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_priority_high.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_priority_low.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_priority_low.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_new.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_priority_disabled.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_priority_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_save.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_search.png",
+        "source": "C:\\Users\\Mircheus\\Desktop\\Zametkiv1-20170422T051033Z-001\\Zametkiv1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    }
+]

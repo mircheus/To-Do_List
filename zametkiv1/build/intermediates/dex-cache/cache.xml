@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mircheus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Mircheus\Desktop\Zametkiv1-20170422T051033Z-001\Zametkiv1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_406af9fe166b1b7660f834b3f330c40f2b3ddfa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mircheus\Desktop\Zametkiv1-20170422T051033Z-001\Zametkiv1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ac8309894e567022b4edd46b87e2ddadfec59a41">
+        <dex dex="C:\Users\Mircheus\Desktop\Zametkiv1-20170422T051033Z-001\Zametkiv1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_34267f063894b32e526155bb2585fb66d6a61238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mircheus\Desktop\Zametkiv1-20170422T051033Z-001\Zametkiv1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da40ecf32c8e5a6305f0687a0327ff0da27c9c7f">
+        <dex dex="C:\Users\Mircheus\Desktop\Zametkiv1-20170422T051033Z-001\Zametkiv1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_790ed834cbf2afba26caa04faf631ee7bb814526\classes.dex" />
+    </item>
+
+</items>
